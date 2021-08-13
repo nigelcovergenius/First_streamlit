@@ -1,2 +1,2 @@
-# First_streamlit
-This is my first practice with Streamlit
+# Demo_Streamlit 
+First streamlit practice app
